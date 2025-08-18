@@ -1,4 +1,26 @@
 # Nebiyu Girma - GitHub Profile README
+<!-- Matrix Background Animation -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=matrix&color=gradient&height=200&s
+</div>
+<!-- Animated Header with Particle Effects -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a
+</div>
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pa
+</div>
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04
+<!-- Profile Views with Animation -->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=nebiyugirma&label=Profile%20Views&color=b
+<img src="https://img.shields.io/github/followers/nebiyugirma?label=Followers&style=soc
+<img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=
+<img src="https://img.shields.io/badge/Focus-Innovation-orange?style=plastic&logo=targe
+</div>
+
 
 <!-- Fixed Matrix Background Animation -->
 <div align="center">
@@ -438,3 +460,4 @@ specializations: [
 <div align="center">
   <sub><i>🔮 Powered by NEBASON 🔮</i></sub>
 </div>
+
