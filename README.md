@@ -1,5 +1,3 @@
-# Nebiyu Girma - GitHub Profile README
-
 <!-- Fixed Matrix Background Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=NEBIYU%20GIRMA&fontSize=40&fontColor=00ff41&animation=fadeIn" alt="Tech Background"/>
@@ -12,10 +10,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b2c2-8d6d69c004b1.gif" width="50"/> THE DIGITAL ARCHITECT — Tech Entrepreneur | CEO & Founder | Innovation Catalyst
 
-<!-- Dynamic Typing Introduction -->
+<!-- Dynamic Typing Introduction 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=80&lines=🚀+Building+Tomorrow%27s+Technology+Today;💻+Fullstack+Developer+%7C+Laravel+%26+React+Expert;🤖+AI+Engineer+%7C+Cybersecurity+Specialist;🌍+Serving+Global+Clients+%7C+Award+Winner;⚡+Where+Innovation+Meets+Excellence!" alt="Dynamic Introduction"/>
-</div>
+</div>  -->
 
 <!-- Matrix Background Animation -->
 <div align="center">
@@ -415,5 +413,6 @@ class NebiyuGirma extends TechVisionary {
 <div align="center">
   <sub><i>🔮 Powered by NEBASON 🔮</i></sub>
 </div>
+
 
 
