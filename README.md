@@ -39,7 +39,7 @@
 </div>
 
 <!-- About Section with Holographic Effect -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" alt="About Icon"/> THE DIGITAL ARCHITECT
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" alt="About Icon"/> THE DIGITAL ARCHITECT
 <div>
   <img align="right" alt="Coding in Matrix" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 </div>
@@ -74,7 +74,7 @@ class NebiyuGirma extends TechVisionary {
 ```
 </div>
 
-### 🎯 Highlights
+ 🎯 Highlights
 - 🏆 East African Global Awards 2024 — Tech Innovation Champion
 - 🥇 Top 50 of 6,000 — Jim Leech Mastercard Foundation Elite
 - 🎖️ 1st Place + Grant — Orbit Innovation Hub Winner
@@ -85,7 +85,7 @@ class NebiyuGirma extends TechVisionary {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-## 🏆 Achievements Matrix
+ 🏆 Achievements Matrix
 <div align="center">
 
 | Achievement | Level | Year | Impact |
@@ -100,8 +100,8 @@ class NebiyuGirma extends TechVisionary {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2nr3ausweq6x7z&rid=giphy.gif" width="40"/> Tech Stack
-### 🔥 Languages
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2nr3ausweq6x7z&rid=giphy.gif" width="40"/> Tech Stack
+ 🔥 Languages
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998&labelColor=000000"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000"/>
@@ -109,7 +109,7 @@ class NebiyuGirma extends TechVisionary {
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000"/>
 </div>
-### ⚡ Frontend
+ ⚡ Frontend
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000"/>
@@ -118,35 +118,35 @@ class NebiyuGirma extends TechVisionary {
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000"/>
 </div>
-### 🚀 Backend
+ 🚀 Backend
 <div align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000"/>
 </div>
-### 🗄️ Databases
+ 🗄️ Databases
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000"/>
 </div>
-### 🤖 AI/ML
+ 🤖 AI/ML
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000"/>
 </div>
-### 🛡️ Cybersecurity
+ 🛡️ Cybersecurity
 <div align="center">
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000"/>
 </div>
-### ☁️ Cloud, DevOps & CI/CD
+ ☁️ Cloud, DevOps & CI/CD
 <div align="center">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000000"/>
@@ -154,7 +154,7 @@ class NebiyuGirma extends TechVisionary {
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"/>
 </div>
-### 📱 Mobile & UI/UX
+ 📱 Mobile & UI/UX
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000"/>
@@ -165,12 +165,12 @@ class NebiyuGirma extends TechVisionary {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Services Icon"/> NEBASON Services & Expertise
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Services Icon"/> NEBASON Services & Expertise
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Solutions
+ 💼 Solutions
 - 🌐 Web Development — Laravel & React
 - 📱 Mobile Applications — iOS & Android  
 - 🎨 UI/UX Design — User-centered experiences
@@ -183,7 +183,7 @@ class NebiyuGirma extends TechVisionary {
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Expertise
+ 🚀 Expertise
 - 🏗️ Enterprise Architecture
 - 🔧 Fullstack Development (Laravel)
 - 🧠 AI Engineering & ML Integration
@@ -200,10 +200,10 @@ class NebiyuGirma extends TechVisionary {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" alt="Projects Icon"/> Flagship Projects
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" alt="Projects Icon"/> Flagship Projects
 <div align="left">
 
-### 🛍️ E-commerce Platform
+ 🛍️ E-commerce Platform
 - Status: In Progress
 - Highlights: AI-driven recommendations and seamless checkout
 - Tech: Laravel, React, Node.js, MongoDB, Stripe, AWS
@@ -211,7 +211,7 @@ class NebiyuGirma extends TechVisionary {
 
 ---
 
-### 🏢 NEBASON Platform
+ 🏢 NEBASON Platform
 - Status: Live
 - Mission: Transforming global businesses through technology
 - Offerings: Custom Software, AI Solutions, Cybersecurity, Training
@@ -219,14 +219,14 @@ class NebiyuGirma extends TechVisionary {
 
 ---
 
-### 🤖 AI Business Solutions
+ 🤖 AI Business Solutions
 - Status: Active
 - Focus: Intelligent automation and predictive analytics
 - Specialization: Process Automation, Data Intelligence, ML
 
 ---
 
-### 🛡️ Cybersecurity Framework
+ 🛡️ Cybersecurity Framework
 - Status: Active
 - Expertise: Ethical hacking, penetration testing, digital forensics
 - Tools: Nmap, Wireshark, Metasploit, Kali Linux
@@ -236,7 +236,7 @@ class NebiyuGirma extends TechVisionary {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"/> GitHub Analytics
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"/> GitHub Analytics
 <div align="center">
   <!-- Main Stats -->
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=nebiyugirma&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00d4ff&text_color=ffffff"/>
@@ -255,17 +255,17 @@ class NebiyuGirma extends TechVisionary {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Education Icon"/> Education & Certifications
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Education Icon"/> Education & Certifications
 <div align="center">
 
-### 🎯 Academics
+ 🎯 Academics
 | Institution | Program | Duration | Status |
 |:-----------:|:-------:|:--------:|:------:|
 | University of the People | BSc Computer Science | Current | Active |
 | Arba Minch University | BSc Hydraulics & WRE | 2021–2025 | Ongoing |
 | Asella High School | High School Diploma | 2018–2020 | Completed |
 
-### 🏆 Certifications
+ 🏆 Certifications
 <div align="center">
   <img src="https://img.shields.io/badge/🛡️_Cybersecurity_101-Certified-red?style=for-the-badge&logo=security&labelColor=000000"/>
   <img src="https://img.shields.io/badge/🤖_AI_&_Machine_Learning-Expert-blue?style=for-the-badge&logo=brain&labelColor=000000"/>
@@ -279,7 +279,7 @@ class NebiyuGirma extends TechVisionary {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" alt="Languages Icon"/> Languages
+ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" alt="Languages Icon"/> Languages
 <div align="center">
 
 | Language | Proficiency | Usage |
@@ -297,7 +297,7 @@ class NebiyuGirma extends TechVisionary {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Contact Icon"/> Connect
 <div align="center">
 
-### Ready to Transform Your Vision into Reality?
+ Ready to Transform Your Vision into Reality?
 <p align="center">
   <a href="https://nebason.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐_Website-nebason.com-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Website"/>
@@ -321,10 +321,10 @@ class NebiyuGirma extends TechVisionary {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Collaboration Icon"/> Collaboration
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Collaboration Icon"/> Collaboration
 <div align="center">
 
-### I'm Actively Seeking
+ I'm Actively Seeking
 <table align="center">
 <tr>
 <td align="center" width="33%">
@@ -382,7 +382,7 @@ class NebiyuGirma extends TechVisionary {
 </div>
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=⚡%20QUANTUM%20REALITY%20HACKED%20⚡&fontSize=25&fontColor=00ff41&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=⚡%20NEBASON%20WHERE%20INNOVATION%20MEETS%20EXCELLENCE%20⚡&fontSize=25&fontColor=00ff41&animation=fadeIn"/>
 </div>
 <!-- Visitor Counter -->
 <div align="center">
@@ -394,3 +394,4 @@ class NebiyuGirma extends TechVisionary {
 <div align="center">
   <sub><i>🔮 Powered by NEBASON 🔮</i></sub>
 </div>
+
