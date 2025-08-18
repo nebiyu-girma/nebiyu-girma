@@ -385,12 +385,15 @@ class NebiyuGirma extends TechVisionary {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=⚡%20NEBASON%20WHERE%20INNOVATION%20MEETS%20EXCELLENCE%20⚡&fontSize=25&fontColor=00ff41&animation=fadeIn"/>
 </div>
 <!-- Visitor Counter -->
+<!-- Fixed Visitor Counter -->
 <div align="center">
-  <a href="https://hits.seeyoufarm.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnebiyugirma&count_bg=%2300ff41&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitor Count"/>
+  <a href="https://hits.sh/github.com/nebiyugirma/" target="_blank" rel="noopener noreferrer">
+    <img src="https://hits.sh/github.com/nebiyugirma.svg?style=for-the-badge&label=Profile%20Views&color=00ff41&labelColor=000000" alt="Visitor Count"/>
   </a>
 </div>
+
 <!-- Easter Egg -->
 <div align="center">
   <sub><i>🔮 Powered by NEBASON 🔮</i></sub>
 </div>
+
