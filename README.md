@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&height=80&lines=🚀+Building+Tomorrow's+Technology+Today;💻+Fullstack+Developer+%7C+Laravel+%26+React+Expert;🤖+AI+Engineer+%7C+Cybersecurity+Specialist;🌍+Serving+Global+Clients+%7C+Award+Winner;⚡+Where+Innovation+Meets+Excellence!" alt="Dynamic Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=80&lines=🚀+Building+Tomorrow%27s+Technology+Today;💻+Fullstack+Developer+%7C+Laravel+%26+React+Expert;🤖+AI+Engineer+%7C+Cybersecurity+Specialist;🌍+Serving+Global+Clients+%7C+Award+Winner;⚡+Where+Innovation+Meets+Excellence!" alt="Dynamic Introduction" />
 </div>
 <!-- Professional Status Indicators -->
 <div align="center">
@@ -369,13 +369,15 @@ class NebiyuGirma extends TechVisionary {
 </div>
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=⚡%20NEBASON%20Where%20Innovation%20Meets%20Excellence%20⚡&fontSize=25&fontColor=00ff41&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=⚡%20QUANTUM%20REALITY%20HACKED%20⚡&fontSize=25&fontColor=00ff41&animation=fadeIn"/>
 </div>
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/nebiyugirma/count.svg" alt="Visitor Count"/>
+  <a href="https://hits.seeyoufarm.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnebiyugirma&count_bg=%2300ff41&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitor Count"/>
+  </a>
 </div>
 <!-- Easter Egg -->
 <div align="center">
-  <sub><i>🔮 Powered by NEBASO 🔮</i></sub>
+  <sub><i>🔮 Powered by NEBASON 🔮</i></sub>
 </div>
