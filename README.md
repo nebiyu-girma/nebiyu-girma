@@ -12,11 +12,11 @@
 
 <!-- Dynamic Typing Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=80&lines=🚀+Building+Tomorrow's+Technology+Today;💻+Fullstack+Developer+%7C+Laravel+%26+React+Expert;🤖+AI+Engineer+%7C+Cybersecurity+Specialist;🌍+Serving+Global+Clients+%7C+Award+Winner;⚡+Where+Innovation+Meets+Excellence!" alt="Dynamic Introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=80&lines=🚀+Building+Tomorrow%27s+Technology+Today;💻+Fullstack+Developer+%7C+Laravel+%26+React+Expert;🤖+AI+Engineer+%7C+Cybersecurity+Specialist;🌍+Serving+Global+Clients+%7C+Award+Winner;⚡+Where+Innovation+Meets+Excellence!" alt="Dynamic Introduction"/>
 </div>
 
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-8cac-81e6e8eb5222.gif" width="100%"/>
+<!-- Bottom Up Divider -->
+![Bottom Divider](assets/Bottom_up.svg)
 
 <!-- Professional Status Indicators & Analytics -->
 <div align="center">
