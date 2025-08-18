@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=matrix&color=gradient&height=200&section=header&text=NEBIYU%20GIRMA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=50&desc=Where%20Innovation%20Meets%20Excellence&descAlignY=70&descAlign=50"/>
 </div>
 
+<!-- Futuristic Header with Matrix Effect -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=matrix&color=gradient&height=300&section=header&text=NEBIYU%20GIRMA&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=50&desc=◤%20WHERE%20INNOVATION%20MEETS%20EXCELLENCE%20◥&descAlignY=75&descAlign=50&descSize=20"/>
+</div>
+
 <!-- Animated Header with Particle Effects -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
