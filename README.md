@@ -1,14 +1,5 @@
 
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; **NEBIYU GIRMA** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%9A%80+Tech+Entrepreneur+%7C+CEO+%26+Founder;%F0%9F%92%BB+Fullstack+Developer+%7C+Laravel+Expert;%F0%9F%A4%96+AI+Engineer+%7C+Cybersecurity+Specialist;%F0%9F%8E%AF+Innovation+Catalyst+%7C+Digital+Transformer;%F0%9F%8F%86+Award+Winner+%7C+Global+Recognition;%F0%9F%8C%8D+Building+the+Future+with+Code!" alt="Animated Typing" />
-</div>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 <!-- Profile Views with Animation -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nebiyugirma&label=Profile%20Views&color=blueviolet&style=plastic&abbreviated=true" alt="Profile views" />
