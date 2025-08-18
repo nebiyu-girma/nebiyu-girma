@@ -369,7 +369,7 @@ class NebiyuGirma extends TechVisionary {
 </div>
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=⚡%20NEBASON%20"Where%20Innovation%20Meets%20Excellence%20⚡&fontSize=25&fontColor=00ff41&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=⚡%20NEBASON%20Where%20Innovation%20Meets%20Excellence%20⚡&fontSize=25&fontColor=00ff41&animation=fadeIn"/>
 </div>
 <!-- Visitor Counter -->
 <div align="center">
