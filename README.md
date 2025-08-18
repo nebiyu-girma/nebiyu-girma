@@ -1,3 +1,31 @@
+<!-- Matrix Background Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=matrix&color=gradient&height=200&section=header&text=NEBIYU%20GIRMA&fontSize=40&fontColor=00ff41&animation=fadeIn" alt="Matrix Background"/>
+</div>
+
+<!-- Animated Header with Particle Effects -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b546-0d67c56d684c.gif" alt="Animated Header" width="100%"/>
+</div>
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b2c2-8d6d69c004b1.gif" width="50"/> THE DIGITAL ARCHITECT — Tech Entrepreneur | CEO & Founder
+
+<!-- Dynamic Typing Introduction -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=80&lines=🚀+Building+Tomorrow's+Technology+Today;💻+Fullstack+Developer+%7C+Laravel+%26+React+Expert;🤖+AI+Engineer+%7C+Cybersecurity+Specialist;🌍+Serving+Global+Clients+%7C+Award+Winner;⚡+Where+Innovation+Meets+Excellence!" alt="Dynamic Introduction"/>
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-8cac-81e6e8eb5222.gif" width="100%"/>
+
+<!-- Profile Views with Animation -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nebiyugirma&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/nebiyugirma?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-Innovation-orange?style=plastic&logo=target" alt="Focus"/>
+</div>
+
 <!-- Professional Header with Dynamic Elements -->
 <div align="center">
   <img src="./header.svg" alt="Professional Header: NEBIYU GIRMA — Tech Entrepreneur | CEO & Founder | Innovation Catalyst" />
