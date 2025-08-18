@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b546-0d67c56d684c.gif" alt="Animated Header" width="100%"/>
 </div>
 
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b2c2-8d6d69c004b1.gif" width="50"/> THE DIGITAL ARCHITECT — Tech Entrepreneur | CEO & Founder | Innovation Catalyst
+ <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b2c2-8d6d69c004b1.gif" width="50"/> THE DIGITAL ARCHITECT — Tech Entrepreneur | CEO & Founder | Innovation Catalyst
 
 <!-- Dynamic Typing Introduction -->
 <div align="center">
@@ -394,4 +394,5 @@ class NebiyuGirma extends TechVisionary {
 <div align="center">
   <sub><i>🔮 Powered by NEBASON 🔮</i></sub>
 </div>
+
 
