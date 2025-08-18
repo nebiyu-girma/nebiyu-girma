@@ -1,6 +1,6 @@
 <!-- Professional Header with Dynamic Elements -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NEBIYU%20GIRMA&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Tech%20Entrepreneur%20%7C%20CEO%20%26%20Founder%20%7C%20Innovation%20Catalyst&descAlignY=60&descAlign=50&descSize=18" alt="Professional Header"/>
+  <img src="./header.svg" alt="Professional Header: NEBIYU GIRMA — Tech Entrepreneur | CEO & Founder | Innovation Catalyst" />
 </div>
 
 <!-- Dynamic Typing Introduction -->
@@ -352,7 +352,7 @@ class NebiyuGirma extends TechVisionary {
 </div>
 <!-- Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovation%20shapes%20tomorrow.%20Let's%20make%20your%20vision%20extraordinary!&author=Nebiyu%20Girma" alt="Inspirational Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovation%20shapes%20tomorrow.%20Let%27s%20make%20your%20vision%20extraordinary!&author=Nebiyu%20Girma" alt="Inspirational Quote"/>
 </div>
 
 <!-- Location & Availability -->
