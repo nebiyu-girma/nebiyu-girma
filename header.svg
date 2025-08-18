@@ -1,0 +1,25 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid meet">
+  <title id="title">NEBIYU GIRMA — Header</title>
+  <desc id="desc">Tech Entrepreneur | CEO & Founder | Innovation Catalyst</desc>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff41"/>
+      <stop offset="50%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#ff0080"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Subtle wave background to echo original style -->
+  <path d="M0,160 C 300,220 900,100 1200,180 L1200,220 L0,220 Z" fill="url(#grad)" opacity="0.12"/>
+  <!-- Main neon text -->
+  <text x="50%" y="55%" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="72" fill="url(#grad)" fill-opacity="0.18" stroke="url(#grad)" stroke-width="2.8" filter="url(#glow)">NEBIYU GIRMA</text>
+  <!-- Subtext -->
+  <text x="50%" y="84%" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="20" fill="#0cf29d">Tech Entrepreneur | CEO &amp; Founder | Innovation Catalyst</text>
+</svg>
